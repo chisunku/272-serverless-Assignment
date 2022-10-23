@@ -1,6 +1,4 @@
 import React, { PureComponent } from 'react'
-
-
 class UploadFile extends PureComponent {
     constructor() {
         super()
