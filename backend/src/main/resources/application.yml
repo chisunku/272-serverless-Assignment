@@ -1,16 +1,16 @@
 cloud:
   aws:
     credentials:
-      access-key: AKIARTZAAXBZOSAG3J4D
-      secret-key: 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
+      access-key: <access-key>
+      secret-key: <secret-key>
     region:
-      static: us-east-2
+      static: <region>
     stack:
       auto: false
 
 application:
   bucket:
-    name: sunku
+    name: <bucket-name>
 
 server:
   port: 8080
