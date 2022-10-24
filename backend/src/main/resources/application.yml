@@ -1,0 +1,18 @@
+cloud:
+  aws:
+    credentials:
+      access-key: <access-key>
+      secret-key: <secret-key>
+    region:
+      static: <region>
+    stack:
+      auto: false
+
+application:
+  bucket:
+    name: <bucket-name>
+
+server:
+  port: <port>
+
+
